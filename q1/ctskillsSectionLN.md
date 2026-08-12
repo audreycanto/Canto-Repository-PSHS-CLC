@@ -27,13 +27,13 @@ Please list possible sub-problems:
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
 
-Sub-Problem                              CT Skills           Example Solution
+Sub-Problem                    |          CT Skills          | Example Solution
 
 
-Slow Decision Making                       Abstract            Create a menu that displays only available items, images, and prices.
-Loitering/Accompanying Friends           Decomposition         Separate the ordering line from the waiting/social area so non-buyers do not clog the queue. 
-Lacking/Running out of food           Pattern Recognition      Keep track of daily dish sales on a physical log sheet to prep the right amount of popular meals in advance. 
-Manual Calculation and Payment          Algorithm Design       Create a strict step-by-step payment program where the total cost of the products, once collected, is subtracted from the total amount paid once the money.
+Slow Decision Making           |           Abstract          | Create a menu that displays only available items, images, and prices.
+Loitering/Accompanying Friends |         Decomposition       | Separate the ordering line from the waiting/social area so non-buyers do not clog the queue. 
+Lacking/Running out of food    |      Pattern Recognition    | Keep track of daily dish sales on a physical log sheet to prep the right amount of popular meals in advance. 
+Manual Calculation and Payment |        Algorithm Design     | Create a strict step-by-step payment program where the total cost of the products, once collected, is subtracted from the total amount paid once the money.
 
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
  
