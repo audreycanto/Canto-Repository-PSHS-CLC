@@ -17,9 +17,11 @@ There is no system to track which food items are running out.
 Your group’s task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
 Step 1: Identify the Big Problem
+
 Main Problem: The school canteen experiences long lines, severe crowding, and slow service.
 
 Step 2: Identify three to four Sub-Problems
+
 Please list possible sub-problems:
 1. Slow decision-making by students.
 2. Tag-alongs or line riders who do not actually want to order.
