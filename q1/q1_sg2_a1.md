@@ -3,7 +3,9 @@ Computational Thinking Exercise: "Smart School Canteen Queue"
 
 
 Section: 9-Arayat                                     Score:____________
+
 C# / Name: #19, #20, #21                              Date: 08/12/26              
+
 Scenario
 
 The PSHS school canteen is small and often gets crowded during lunch break. Students line up to buy food, but the process is slow because:
