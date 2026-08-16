@@ -1,8 +1,7 @@
+"""
 Section: 9-Arayat Score:____________
-
-C# / Name: #19 Date: 08/13/26
-
-
+C# / Name: #19 / Canto, Louise Audreana B. Date: 08/13/26
+"""
 birth_year = int(input("Enter your birth year: "))
 """
 Variable for you to be allowed to enter your birth year. It's in int form
