@@ -2,7 +2,7 @@
 Section: 9-Arayat Score:____________
 C# / Name: #19 / Canto, Louise Audreana B. Date: 08/13/26
 """
-
+import time
 birth_year = int(input("Enter your birth year: "))
 """
 Variable for you to be allowed to enter your birth year. It's in int form
@@ -31,3 +31,4 @@ else:
     ]
     print(f"Your Chinese Zodiac sign is : {zodiacs[year_calculation]}")
     # The result will be printed here.
+    time.sleep(1)
