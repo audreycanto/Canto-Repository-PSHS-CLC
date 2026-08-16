@@ -1,6 +1,9 @@
-CN #: 19, 20, 21
-9-Arayat
-08/16/26
+Annex C
+Code Quality Assessment Worksheet
+
+Section: 9-Arayat      Score: _______________
+
+CN #: 19, 20, 21       Date: 08/16/26
 
 
 Instructions:
@@ -10,33 +13,19 @@ The problem: Finding the highest (Maximum) number from a given list of numbers.
 
 Questions with Checklists
 1. Efficiency
+
 Which algorithm is faster when the list of numbers is very large? Why?
+
 PseudoCode 1 is faster because it uses only one loop, checking each number once. While PseudoCode 2 uses two nested loops, so it takes much more time.
 
-
-
-PseudoCode 1
-PseudoCode 2
- Does the algorithm use one loop or two nested loops?
- Does the algorithm repeat work unnecessarily?
- Which algorithm finishes in fewer steps?
- Does the algorithm use one loop or two nested loops?
- Does the algorithm repeat work unnecessarily?
- Which algorithm finishes in fewer steps?
+![Table 1](q1sg2a2table1.png)
 
 Checklist to guide your answer:
 2. Readability
+
 Which algorithm is easier to understand at first glance? What makes it clearer?
+
 Pseudocode 1 is the easiest as it is more concise, and there are no unnecessary functions. 
-Checklist to guide your answer:
-PseudoCode 1
-PseudoCode 2
- Are variable names meaningful (e.g., max vs. bigger)?
- Is the logic simple or complicated?
- Are there fewer lines of code?
- Are variable names meaningful (e.g., max vs. bigger)?
- Is the logic simple or complicated?
-Are there fewer lines of code?
 
 3. Maintainability
 If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
