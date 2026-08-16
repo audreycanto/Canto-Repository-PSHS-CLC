@@ -27,7 +27,7 @@ Checklist to guide your answer:
 
 Which algorithm is easier to understand at first glance? What makes it clearer?
 
-Pseudocode 1 is the easiest as it is more concise, and there are no unnecessary functions. 
+PseudoCode 1 is the easiest as it is more concise, and there are no unnecessary functions. 
 
 Checklist to guide your answer:
 ![Table 2](q1sg2a2table2.png)
@@ -36,7 +36,7 @@ Checklist to guide your answer:
    
 If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
 
-It would be easier to update Pseudocode 1 since it’s a lot simpler to break down and has shorter lines of code.
+It would be easier to update PseudoCode 1 since it’s a lot simpler to break down and has shorter lines of code.
 
 Checklist to guide your answer:
 ![Table 3](q1sg2a2table3.png)
@@ -46,7 +46,7 @@ Checklist to guide your answer:
    
 Which algorithm is easier to test with different inputs? Why?
 
-Pseudocode 1 is easier to test because there is only 1 loop with fewer conditions to check. The code is simpler to observe and fix.
+PseudoCode 1 is easier to test because there is only 1 loop with fewer conditions to check. The code is simpler to observe and fix.
 
 Checklist to guide your answer:
 ![Table 4](q1sg2a2table4.png)
@@ -64,4 +64,4 @@ Checklist to guide your answer:
    
 Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer.
 
-Pseudocode 1 is better because it is more concise, easily understandable, testable, and has less chance of error.
+PseudoCode 1 is better because it is more concise, easily understandable, testable, and has less chance of error.
