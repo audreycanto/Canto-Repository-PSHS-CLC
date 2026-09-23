@@ -17,7 +17,9 @@ FAs:
  
   SG2 Activity
     1) https://github.com/audreycanto/Canto-Repository-PSHS-CLC/blob/main/q1/q1_sg2_a1.md
+    
     2) https://github.com/audreycanto/Canto-Repository-PSHS-CLC/blob/main/q1/q1_sg2_a2.md
+    
     3) https://github.com/audreycanto/Canto-Repository-PSHS-CLC/blob/main/q1/q1_sg2_a3.py
  
   SG5 Activity
