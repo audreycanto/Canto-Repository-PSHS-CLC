@@ -4,6 +4,8 @@
 
 9-Arayat 
 
+QUARTER 1 PORTFOLIO
+
 Sample Codes:
 
 Car:
@@ -28,4 +30,3 @@ FAs:
  
   SG7 Activity
     1) https://github.com/audreycanto/Canto-Repository-PSHS-CLC/blob/main/q1/q1_sg7_arayat_Canto.py
-    
